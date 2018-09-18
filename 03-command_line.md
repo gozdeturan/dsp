@@ -50,7 +50,7 @@ What do the following commands do:
 `ls -lh`: lists files and directories as a table and use unit suffixes: Byte, Kilobyte, Megabyte etc.
 `ls -lah`:  lists directory entries whose names begin with a dot
 `ls -t`: orders files and directories by the time they were last modified.
-`ls -Glp`: enables colorized output and writes a slash after each filename if that file is a directory.
+`ls -Glp`: enables colorized output and writes a slash after each filename if that file is a directory
 
 ---
 
