@@ -90,9 +90,12 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 
 Given that Pr(identical twins) = 1/300 and Pr(fraternal twins) = 1/125
 
+And assume that identical twins are necessarily the same sex, but fraternal twins are equally likely to be opposite sex
+
 Pr(identical twins & twin brother) = Pr(identical twins) Pr(both boys| identical twins) = (1/2)(1/300)
 
 Pr(fraternal twins & twin brother) = Pr(fraternal twins) Pr(both boys| fraternal twins) = (1/4)(1/125)
+
 
 The conditional probability that Elvis was an identical twin is:   
 Pr(identical twins|twin brother) = Pr(identical twins & twin brother) / Pr(twin brother)
