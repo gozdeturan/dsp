@@ -36,13 +36,13 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 ### Q2.  List Files in Unix
 
 What do the following commands do:
-`ls`
-`ls -a`
-`ls -l`
-`ls -lh`
-`ls -lah`
-`ls -t`
-`ls -Glp`
+`ls`  
+`ls -a`  
+`ls -l`  
+`ls -lh`  
+`ls -lah`  
+`ls -t`  
+`ls -Glp`  
 
 * `ls`: lists the contents of a directory
 * `ls -a`: lists both hidden and unhidden contents of a directory
