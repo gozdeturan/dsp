@@ -96,7 +96,7 @@ Pr(fraternal twins & twin brother) = Pr(fraternal twins) Pr(both boys| fraternal
 The conditional probability that Elvis was an identical twin is:   
 Pr(identical twins|twin brother) = Pr(identical twins & twin brother) / Pr(twin brother)
 
-Pr(identical twins|twin brother) = (1/2)(1/300) / (1/2)(1/300) + (1/4)(1/125)
+Pr(identical twins|twin brother) = (1/2)(1/300) / ((1/2)(1/300) + (1/4)(1/125))
 
 Pr(identical twins|twin brother) = 5/11 = 0.45
 
