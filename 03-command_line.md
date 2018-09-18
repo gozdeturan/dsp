@@ -44,13 +44,13 @@ What do the following commands do:
 `ls -t`
 `ls -Glp`
 
-`ls`: lists the contents of a directory
-`ls -a`: lists both hidden and unhidden contents of a directory
-`ls -l`: lists files and directories as a table
-`ls -lh`: lists files and directories as a table and use unit suffixes: Byte, Kilobyte, Megabyte etc.
-`ls -lah`:  lists directory entries whose names begin with a dot
-`ls -t`: orders files and directories by the time they were last modified.
-`ls -Glp`: enables colorized output and writes a slash after each filename if that file is a directory
+* `ls`: lists the contents of a directory
+* `ls -a`: lists both hidden and unhidden contents of a directory
+* `ls -l`: lists files and directories as a table
+* `ls -lh`: lists files and directories as a table and use unit suffixes: Byte, Kilobyte, Megabyte etc
+* `ls -lah`:  lists directory entries whose names begin with a dot
+* `ls -t`: orders files and directories by the time they were last modified
+* `ls -Glp`: enables colorized output and writes a slash after each filename if that file is a directory
 
 ---
 
@@ -58,11 +58,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-`-a`: displays all files
-`-d`: displays only directories
-`-r`: displays files in reverse order
-`-t`: displays newest files first (based on timestamp)
-`-l`: displays the long format listing
+* `-a`: displays all files
+* `-d`: displays only directories
+* `-r`: displays files in reverse order
+* `-t`: displays newest files first (based on timestamp)
+* `-l`: displays the long format listing
 
 ---
 
