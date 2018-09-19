@@ -12,7 +12,7 @@ thinkplot.Pmf(pmf)
 thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 ```
 
-![Plot of pmf][../img/ch3_ex1_actual_pmf.png]
+![Plot of pmf](../img/ch3_ex1_actual_pmf.png)
 
 Plot shows that number of children under 18 in the respondents' households is mostly 0.
 Now compute the biased distribution. 
@@ -40,7 +40,7 @@ print("Mean of actual distribution:", pmf.Mean())
 print("Mean of biased distribution:", biased.Mean())
 ```
 
-![Plot of biased and actual pmf][../img/ch3_ex1_biased_pmf.png]
+![Plot of biased and actual pmf](../img/ch3_ex1_biased_pmf.png)
 
 Mean of actual distribution: 1.0242051550438309
 Mean of biased distribution: 2.4036791006642821
