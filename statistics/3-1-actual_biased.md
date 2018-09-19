@@ -42,7 +42,7 @@ print("Mean of biased distribution:", biased.Mean())
 
 ![Plot of biased and actual pmf](../img/ch3_ex1_biased_pmf.png)
 
-Mean of actual distribution: 1.0242051550438309
+Mean of actual distribution: 1.0242051550438309  
 Mean of biased distribution: 2.4036791006642821
 
 Biased distribution has a larger mean than the actual as the actual distribution has a mean of 1.02 children and biased distribution has a mean of 2.4 children. This might be the result of families with no children have no chance to be in the sample.
