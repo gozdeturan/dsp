@@ -23,9 +23,9 @@ others.totalwgt_lb.mean()
 
 CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
 ```
-Mean of total weight of first babies: 7.201094430437772
-Mean of total weight of other babies: 7.3258556149732623
-Difference of means: -0.12476118453549034
-Cohen's d = -0.088672927072602006
+Mean of total weight of first babies: 7.201094430437772    
+Mean of total weight of other babies: 7.3258556149732623    
+Difference of means: -0.12476118453549034   
+Cohen's d = -0.088672927072602006   
 
-The difference in means is -0.088 standard deviations, which is small. In comparison the difference in pregnancy lenght which has effect size 0.028, difference in weights is more significant. 
+The difference in means is -0.088 standard deviations, which is small. In comparison the difference in pregnancy lenght which has effect size 0.028, the difference in weights is more significant. 
