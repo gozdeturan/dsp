@@ -111,8 +111,8 @@ How do frequentist and Bayesian statistics compare?
 
 >>  
     Both approaches allow to evaluate evidence about competing hypotheses. 
-    The Bayesian models uncertainty by a probability distribution over hypotheses. It depends on the prior and likelihood of observed data. 
-   Frequentists don’t assign probabilities to hypothesis and they use (maximum likelihood) point estimates of unknown parameters to predict new data points.
+    The Bayesian models uncertainty by a probability distribution over hypotheses. It depends on the prior and likelihood of observed         data. 
+    Frequentists don’t assign probabilities to hypothesis and they use (maximum likelihood) point estimates of unknown parameters to           predict new data points.
 
 ---
 
